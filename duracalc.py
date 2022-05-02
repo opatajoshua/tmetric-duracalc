@@ -2,10 +2,10 @@ import csv
 from locale import currency
 import sys
 
-if(len(sys.argv) <1):
-  print('csv file path required a argument')
-  quit()
-print('===dd', sys.argv)
+# if(len(sys.argv) <1):
+#   print('csv file path required a argument')
+#   quit()
+# print('===dd', sys.argv)
 
 # configurations
 file_path = 'detailed_report.csv'
